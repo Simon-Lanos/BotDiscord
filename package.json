@@ -1,0 +1,12 @@
+{
+  "name": "BotDiscord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Simon-Lanos/BotDiscord.git",
+  "author": "Simon LANOS <simon.lanos99@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "mysql.js": "^1.0.2"
+  }
+}
